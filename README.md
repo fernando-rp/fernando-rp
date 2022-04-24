@@ -3,13 +3,13 @@
 
 - 👨‍💻 Mi portafolio lo puedes encontrar en [https://fwdportafolio.netlify.app/](https://fwdportafolio.netlify.app/)
 
-- 💬 Puedes preguntarme por tecnologías como: **React, Flask, Bootstrap**
+- 💬 Puedes preguntarme por tecnologías o lenguajes como: **Javascript, Python, React, Flask, Bootstrap, HTML, CSS.**
 
 - 📫 Contáctame a través del siguiente correo: **fernandoriospiutrin@gmail.com**
 
 - 📄 Conoce más acerca de mi experiencia [https://fwdportafolio.netlify.app/#miexperiencia](https://fwdportafolio.netlify.app/#miexperiencia)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fernando-rios-piutrin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernando-rios-piutrin/" height="30" width="40" /></a>
 </p>
